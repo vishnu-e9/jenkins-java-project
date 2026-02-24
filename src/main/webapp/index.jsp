@@ -22,9 +22,9 @@
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>pass ivvu mari</label>
+          <label>pass haii?</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> BhAAi  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
