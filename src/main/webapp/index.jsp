@@ -14,15 +14,15 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU.</h2>
+      <h2> Chusthavaa...?</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>urike ela chusthav?</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>pass ivvu mari</label>
         </div>
         <button type="submit"> BYE  </button>
         <div class="form-help">
