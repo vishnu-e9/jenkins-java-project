@@ -24,7 +24,7 @@
           <input type="password" required />
           <label>password</label>
         </div>
-        <button type="submit"> randira... randi  </button>
+        <button type="submit"> log in </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
