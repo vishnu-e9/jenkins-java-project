@@ -14,17 +14,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Chusthavaa...?</h2>
+      <h2> Artham ayyindhi Mastaru...</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>urike ela chusthav?</label>
+          <label>e-mail</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>pass haii?</label>
+          <label>password</label>
         </div>
-        <button type="submit"> BhAAi  </button>
+        <button type="submit"> randira... randi  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
